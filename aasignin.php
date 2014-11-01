@@ -1,13 +1,16 @@
 <?php
-/*
-	Plugin Name:AA Sign in Widget
-	Plugin URI:http://wordpress.org/plugins/.../
-	Author:AAextention
-	Author URI:http://aawp.webdesigncr3ator.com/
-	Description: This is an sign in widget plugin
-	Version:1.0
-	License:GPLv3
-*/
+
+/**
+ * Plugin Name: AA Signin Widget
+ * Plugin URI: https://wordpress.org/plugins/aasigninwidget/
+ * Description: It's signin extension from AA Production House. . 
+ * Version: 1.0
+ * Author: A. Roy / A. Mahmud
+ * Author URI: http://webdesigncr3ator.com
+ * Support Email : contact2us.aa@gmail.com
+ * License: GPL2
+ **/
+
 
 
 
