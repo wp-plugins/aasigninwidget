@@ -1,14 +1,14 @@
-=== Sign in Widget ===
-Contributors: AAextention 
-Tags: sign-in , aa , widget , aaextention , sign in widget
+=== AA Signin Widget ===
+Contributors: aaextension
+	Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ashik685%40gmail%2ecom&lc=US&item_name=Donate%20AA%20Extension%20%21&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
+Tags: aaextension, signin , signup , login , signin widget
 Requires at least: 3.5
-Tested up to: 3.8
+Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: 1.0
 
-
-Simple sign in widget with shortcode support
+It's signin extension from AA Production House.
 
 == Description ==
 
@@ -17,12 +17,10 @@ Just use this shortcode and see the result yourself. If you like it please don\\
 
 == Installation ==
 
-Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
+1. Install as regular WordPress plugin.<br />
+2. Go your plugin setting via WordPress Dashboard and find "<strong>AA Signin Widget</strong>" activate it.<br />
 
-*    Go to Widget and drag the Sign in widget to sidebar.
-*     Add this shortcode ( [signin] ) to post  or page and publish .
-
-It\'s easy
+<br />
 
  
 == Frequently Asked Questions ==
@@ -34,6 +32,7 @@ How i use this plugin ?
   or
 
   Go to Widget and drag the Sign in widget to sidebar.
+
 == Screenshots ==
-1. Perview of the output
-2. Output
+1.screenshot-1.png
+2.screenshot-2.png
