@@ -34,5 +34,5 @@ How i use this plugin ?
   Go to Widget and drag the Sign in widget to sidebar.
 
 == Screenshots ==
-1.screenshot-1.png
-2.screenshot-2.png
+1.screenshot-1
+2.screenshot-2
